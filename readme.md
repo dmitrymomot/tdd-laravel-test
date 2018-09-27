@@ -39,3 +39,11 @@ $ make restart
 ```shell
 $ make down
 ```
+
+### Run tests
+
+> _Before running you should init the application, see the doc above_
+
+```shell
+$ make test
+```
